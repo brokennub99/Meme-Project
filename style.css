@@ -3,13 +3,14 @@ body{
 }
 
 .div1{
+    margin-top: 10%;
     width: 50%;
     margin-left: 25%;
 }
 
 .div1 h1{
     font-family: Libre Baskerville;
-    text-align: center;
+    text-align: left;
     margin-bottom: 0px;
     color: white;
 }
