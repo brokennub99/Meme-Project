@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+}
+
+.div1{
+    width: 50%;
+    margin-left: 25%;
+}
+
+.div1 h1{
+    font-family: Libre Baskerville;
+    text-align: center;
+    margin-bottom: 0px;
+    color: white;
+}
+
+.div1 img{
+    border: 10px solid white;
+    width: 100%;
+}
+
+.div1 p{
+    color: white;
+    text-align: left;
+    font-family: Libre Baskerville;
+    font-size: 30px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
